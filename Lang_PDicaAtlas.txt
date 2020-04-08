@@ -1,0 +1,78 @@
+1	L IOT (lateral)	Left Inferior Occipital-Temporal (lateral)	-51	-51	-19
+2	R MFG	Right middle frontal gyrus	36	41	28
+3	R FP (lateral)	Right lateral frontal pole	47	46	-5
+4	R IP	Right Inferior parietal	46	-49	45
+5	R FP	Right frontal Pole	35	54	7
+6	L FP	Left frontal Pole	-36	55	6
+7	L AG	Left Angular gyrus	-44	-58	44
+8	R IFG	Right inferior frontal gyrus	53	29	12
+9	mPFC (dorsal)	Medial prefrontal cortex(dorsal)	3	31	55
+10	L Ins (superior)	Left Insula (superior)	-40	1	10
+11	R Ins (superior)	Right Insula (superior)	41	1	10
+12	L Ins (ventral)	Left Insula (ventral)	-44	4	-8
+13	R Ins (ventral)	Right insula (ventral)	44	6	-10
+14	L SMG	Left supra-marginal gyrus	-60	-29	32
+15	R SMG	Right supra-marginal gyrus	62	-27	34
+16	dACC	Dorsal anterior cingulate	-3	20	39
+17	L MFG (anterior)	Left anterior MFG	-39	47	20
+18	R Heschl	Right Heschls	47	-24	22
+19	PCC	Posterior cingulate cortex	1	-55	33
+20	ACC	Anterior Cingulate Cortex	0	45	4
+21	L FP	Left frontal Pole	-14	69	15
+22	R FP	Right frontal Pole	14	69	14
+23	PCC	Posterior cingulate cortex	-1	53	24
+24	mPFC (bilateral)	Bilateral medial prefrontal cortex	-1	52	16
+25	mPFC (dorsal)	Bilateral medial prefrontal cortex (dorsal)	2	54	30
+26	vmPFC	Ventromedial prefrontal cortex	2	35	-18
+27	L Prc (superior)	Superior precuneus	-1	-57	54
+28	mPFC (dorsal)	Bilateral medial prefrontal cortex (dorsal)	1	37	43
+29	L OC (mid)	Left mid occipital	-38	-81	34
+30	R OC (mid)	Right mid occipital	41	-77	36
+31	L Calc	Left calcarine	-13	-59	5
+32	R Calc	Right calcarine	16	-56	5
+33	L Lg	Left lingual	2	-82	4
+34	L FFg	Left fusiform gyrus	-24	-71	-11
+35	L Cun (superior)	L Cunues (superior)	0	-81	33
+36	R OC (inferior)	Right occipital (inferior)	27	-93	-2
+37	L OC (inferior)	Left occipital (inferior)	-24	-95	-4
+38	L OC (mid)	Left occipital (mid)	-36	-76	3
+39	L OC (mid/superior)	left Occipital (mid/superior)	-35	-68	15
+40	L Prc	Left precuneus	-10	-73	45
+41	R Prc	Right precuneus	13	-69	45
+42	R ITC	Right inferior temporal	44	-50	-12
+43	L DLPFC	Left dorsolateral prefrontal cortex	-48	8	36
+44	L OC/IP	Left occipital	-27	-70	33
+45	R OC/IP	Right occipital (inferior)	32	-70	32
+46	L IP	left inferior parietal	-42	-30	38
+47	R DLPFC	Right dorsolateral prefrontal cortex	51	14	34
+48	L PreC (ventral)	Left precentral gyrus (ventral)	-55	-8	30
+49	R PreC (ventral)	Right precentral gyrus (ventral)	57	-5	28
+50	PreC (medial)	Medial pre/post central 	0	-35	65
+51	R PreC	Right precentral gyrus 	40	-25	60
+52	SMA	Supplementary motor area	3	-13	72
+53	L PreC	Left precentral gyrus	-39	-26	61
+54	R STG	Right superior temporal gyrus	61	-19	5
+55	L STG	Left superior temporal gyrus	-57	-24	8
+56	R STG	Right superior temporal gyrus	55	-20	-5
+57	R MTG/IP	Right middle temporal gyrus	57	-55	20
+58	L MTG	Left middle temporal gyrus	-56	-40	-8
+59	R MTG/OC	Right temporal-occipital 	59	-35	-10
+60	L IFG	Left inferior frontal gyrus	-50	32	1
+61	R TP	Right temporal pole	35	6	-34
+62	L TP	Left temporal pole	-34	6	-34
+63	L TP (inferior)	Left inferior temporal pole	-42	-4	-43
+64	R TP (inferior)	Right inferior temporal pole	41	-3	-45
+65	OFC	Orbitofrontal cortex	-3	42	-20
+66	R Cb (crus 1)	Right cerebellum crus 1	30	-71	-34
+67	L Cb (crus 2)	Left cerebellum crus 2	-13	-81	-32
+68	Cb (ventral)	Cerebellum (ventral) 	-4	-63	-45
+69	L Cb (crus 1)	Left Cerebellum crus 1	-39	-58	-33
+70	R Cb (dorsal)	Right cerebellum (dorsal)	29	-51	-24
+71	L Cb (crus 2)	Left cerebellum (crus 2)	-8	-77	-30
+72	Vermis	Vermis	-1	-59	-26
+73	L Cb (ventral)	Left cerebellum (ventral)	-25	-66	-56
+74	R Cb (ventral	Right cerebellum (ventrral)	25	-66	-56
+75	L Put	Left putamen	-26	5	0
+76	R Put	Right putamen	27	6	0
+77	R Caud (dorsal)	Right dorsal caudate 	17	6	18
+78	Caud (bilateral)	Caudate (bilateral)	-1	-3	11
