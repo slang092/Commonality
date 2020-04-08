@@ -7,5 +7,5 @@ commonality analysis project-Parkinson's disease
 
 3. CorrMatrix_pd.mat: Connectivity matrices for 74 subjects with Parkinson's disease. Consists of a 78x78x74 matrix (x,y,subject). The value in each index corresponds to the Fisher-z transformed pearson correlation coefficient between the average (denoised) BOLD time-course from each ROI in the Lang_PDica_Atlas.nii file.  
 
-
+4. demographics.mat: file containing the relevant demographic values for 74 PD subjects (age, gender, levodopa equivalent dose, MoCA, MBI-C, UPDRS-III, invalid (artifactual scans), mean Motion (mm/TR), MBI-C (centered, and adjusted for age, led, and gender), MoCA (centered, and adjusted for age, led, and gender), and UPDRS-III (centered, and adjusted for age, led, and gender)
 
